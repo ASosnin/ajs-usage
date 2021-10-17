@@ -1,0 +1,23 @@
+{
+  "name": "ajs-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASosnin/ajs-usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASosnin/ajs-usage/issues"
+  },
+  "homepage": "https://github.com/ASosnin/ajs-usage#readme",
+  "dependencies": {
+    "@asosnin/ajs": "^1.0.0"
+  }
+}
